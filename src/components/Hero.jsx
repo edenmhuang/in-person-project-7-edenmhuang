@@ -4,15 +4,15 @@ const Hero = () => {
       <div className="container">
         <div className="hero-content">
           <h1 className="hero-title">
-            Hi, I'm <span className="highlight">John Doe</span>
+            Hi, I'm <span className="highlight">Eden Huang</span>
           </h1>
           <p className="hero-subtitle">
-            Full Stack Developer passionate about building amazing web experiences
+            Frontend Developer &amp; UI Designer
           </p>
           <p className="hero-description">
-            I specialize in React, Node.js, and modern web technologies.
-            Currently focused on building scalable applications and exploring
-            machine learning integrations.
+            Creating beautiful, responsive web experiences with modern technologies.
+            I specialize in React, modern CSS, and responsive design patterns
+            that work beautifully across all devices.
           </p>
           <div className="hero-buttons">
             <a href="#projects" className="btn btn-primary">View My Work</a>
